@@ -1,5 +1,5 @@
 # Start-Screen-Win8-New-Tab-for-Edge
-Start Screen · Win8 New Tab for Edge
+Start Screen · Win8 New Tab
 
 Start Screen · Win8 New Tab turns your new tab page into a Windows 8 style Start screen: a grid of large, colourful tiles, each showing the real icon of the site it opens, sliding in with a smooth entrance animation.
 
